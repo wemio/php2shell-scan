@@ -152,6 +152,14 @@ PHP2Shell (CVE-2026-109618 / CVE-2026-109619) 自查报告
 - Use `--remote` only against systems you own or are authorized to test.
 - Review findings before deleting files or blocking IPs; some indicators may be shared infrastructure.
 
+## 公众号文章 / WeChat article
+
+配套的公众号笔记：PHP2Shell 漏洞应急笔记（漏洞背景、处置步骤、排查清单）。
+
+<a href="https://mp.weixin.qq.com/s/GNwBxrLpJCjJEutTIux_wA"><img src="assets/wechat-qr.png" alt="扫码阅读 PHP2Shell 公众号文章" width="220"></a>
+
+[在微信中阅读](https://mp.weixin.qq.com/s/GNwBxrLpJCjJEutTIux_wA)
+
 ## References
 
 - PHP security advisory, 21 Oct 2026: <https://www.php.net/archive/2026.php#2026-10-21-5>
